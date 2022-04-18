@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.titulo{
+    text-align: center;
+    font-size: 1rem;
+}
+.item{
+    background: #000;
+    margin: 10px;
+    border-radius: 5px;
+    padding: 5px;
+}
+
+.description{
+    color: #fff;
+    padding: 8px;
+}
+
+
+.destaque{
+    color: #ffb501;
+    font-weight: bold;
+    letter-spacing: .8px;
+}
+button{
+    background: #ffb501;
+    text-align: center;
+    border: none;
+    padding: 10px;
+    border-radius: 8px;
+    cursor: pointer;
+}
+
+button:hover{
+    background: #ffc508;
+}
